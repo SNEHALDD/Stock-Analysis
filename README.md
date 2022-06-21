@@ -36,9 +36,9 @@ Deliverable 2: Write analysis
 2017 - https://github.com/SNEHALDD/Stock-Analysis/blob/e5af56949b3ad35584289cfaa89d7c37628205c4/Resources/VBA_Challenge_2017.png
 2018 - https://github.com/SNEHALDD/Stock-Analysis/blob/e5af56949b3ad35584289cfaa89d7c37628205c4/Resources/VBA_Challenge_2018.png
 
-Refactored Code ran in 0.07421875 seconds for 2017
-Refactored Code ran in 0.08984375 seconds for 2018
-Execution time of original script - 7.707031 seconds 
+Refactored Code ran in 0.07421875 seconds for 2017,
+Refactored Code ran in 0.08984375 seconds for 2018,
+Execution time of original script - 7.707031 seconds.
 
 Year 2017 had better returns as compared to 2018 year
 
